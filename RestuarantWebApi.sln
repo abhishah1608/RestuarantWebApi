@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestuarantWebApi", "RestuarantWebApi\RestuarantWebApi.csproj", "{9396D880-D87B-47E8-A286-A7B32962D45A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9396D880-D87B-47E8-A286-A7B32962D45A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9396D880-D87B-47E8-A286-A7B32962D45A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9396D880-D87B-47E8-A286-A7B32962D45A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9396D880-D87B-47E8-A286-A7B32962D45A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C96A655A-8528-4EAD-B214-D48C28DFA1D6}
+	EndGlobalSection
+EndGlobal
